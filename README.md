@@ -3,8 +3,9 @@
 Create a playable third-person character in Unreal Engine that can move and run, collect coin-like collectibles, track a Score and Player Health, and display both on-screen (UI).
 
 ```
-Name: ANUBHARATHI SS
-Reg No: 212223040017
+Name : V. POOJAA SREE
+Reg NO : 212223040147
+
 ```
 
 ### Overview:
